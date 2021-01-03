@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://pastebin.com/raw/Ayau5dtS
-#ultima actualizacion:01/01/2021
+#ultima actualizacion:03/01/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -14,7 +14,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 01/01/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 03/01/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -1346,7 +1346,8 @@ https://i.imgur.com/Av8yUYC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmdui2c.png" group-title="Argentina", América TV | HD | Buenos Aires
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/gWD553w.png" group-title="Argentina", América Tucumán TV | HD | Tucumán
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWD553w.png" group-title="Argentina", América Tucuman | HD | Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iq6b7qv.png" group-title="Argentina", Airevisión | HD | Punta Alta
