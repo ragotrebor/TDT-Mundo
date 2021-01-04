@@ -1290,6 +1290,10 @@ https://i.imgur.com/KuqaZul.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Familiares", TV Galicia Xabarín | HD | Gallego
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXfxsoL.png" group-title="Familiares", Kanade | HD | Chile
+http://207.246.84.143:8080/hls/Kanade.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
