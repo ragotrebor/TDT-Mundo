@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://pastebin.com/raw/Ayau5dtS
-#ultima actualizacion:03/01/2021
+#ultima actualizacion:04/01/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -14,7 +14,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 03/01/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 04/01/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -1290,14 +1290,8 @@ https://i.imgur.com/KuqaZul.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Familiares", TV Galicia Xabarín | HD | Gallego
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sXfxsoL.png" group-title="Familiares", Kanade | HD | Chile
-http://155.138.216.118:8080/hls/show.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1BjZvoH.png" group-title="Familiares", Toonizaki  | SD | Argentina
-https://i.imgur.com/Cc1CypC.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNMvxoO.png" group-title="Familiares", Snick | SD | Rep. Dominicana
@@ -3810,5 +3804,3 @@ https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1BjZvoH.png" group-title="Familiares", Toonizaki  | SD | Argentina
-https://inliveserver.com:1936/m3ulive/m3ulive/chunklist_w877266350.m3u8
