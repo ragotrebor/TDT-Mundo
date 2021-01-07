@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://pastebin.com/raw/Ayau5dtS
-#ultima actualizacion:04/01/2021
+#ultima actualizacion:07/01/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -14,7 +14,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 04/01/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 07/01/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -56,7 +56,7 @@ https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Chile", Tele 13 (Kodi) | HD 
 plugin://plugin.video.youtube/play/?video_id=aqPIiyPI10c
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Chile", Tele 13 (No Kodi) | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Chile", Tele 13 | HD
 https://www.youtube.com/watch?v=aqPIiyPI10c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rluBtPA.png" group-title="Chile", Tevex | HD | Santiago
@@ -382,6 +382,12 @@ http://media.profesionalhosting.com:1935/8175/8175/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Spc1n7c.png" group-title="Cine y Series", Red TV| HD | España
 http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1060324053.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fTcl43.png" group-title="Cine y Series", A3Cine| FHD | España
+http://stream.pcriot.com/ZiF2/a3.php/a3cine-1080.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAiUxSx.png" group-title="Cine y Series", Rec On Line | HD | Bolivia
 https://master.tucableip.com/reconline/live/video.m3u8
@@ -2167,6 +2173,12 @@ http://siglo21.dnsalias.com:8080/mylive/tvexitos/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTrgFSx.png" group-title="Musicales", Radio Televisión Makao | HD | Rep. Dominicana
 https://cdn4.hostlagarto.com:8081/static/Makaotv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sFdXXL6/tumus.png" group-title="Musicales", Tu Música | HD | Rep. Dominicana
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o3W77Hi.jpg" group-title="Musicales", The Retro Channel | SD | Puerto Rico
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
@@ -2237,6 +2249,10 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w28804817
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pFpolwD.png" group-title="Musicales", Teleritmo| SD |México
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="Musicales", Video Rola | SD |México
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Us1XHnp.jpg" group-title="Musicales", Latinos 1 | HD  | Suiza
 https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
 
@@ -2246,8 +2262,9 @@ https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7D1sOz7.png" group-title="Musicales", UNO | HD | Latinoamérica
 http://media.profesionalhosting.com:1935/8441/8441/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v1kZ75r.png" group-title="Musicales", Zero Uno TV | HD | Italia
-https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPg5HX9/o2.png" group-title="Musicales", Oxígeno  TV | SD | Venezuela
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89HKXuS.jpg" group-title="Musicales", La Super TV | SD | Colombia
@@ -2322,6 +2339,10 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eurtz6A.png" group-title="Musicales",Euro Indie Music Chart |Italia
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v1kZ75r.png" group-title="Musicales", Zero Uno TV | HD | Italia
+https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyUccgT.png" group-title="Musicales", UTV | SD | Rumanía
 https://edge214.rcs-rds.ro/V4-8226014-92ffe86f36eac4a3a9cada186bb3d32d-3362276368-0-1607877530-411-utv/utv/utvlq.stream/chunklist.m3u8
@@ -2410,6 +2431,12 @@ https://strm.yandex.ru/kal/o2/o20_169_720p.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n7bGFXj.png" group-title="Musicales , Muz-TV | SD | Rusia
 http://ott-cdn.ucom.am/s28/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7bGFXj.png" group-title="Musicales , Muz-TV | HD | Rusia
+https://www.youtube.com/watch?v=YbwujzJL4jw
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7bGFXj.png" group-title="Musicales , Muz-TV (Kodi) | HD | Rusia
+plugin://plugin.video.youtube/play/?video_id=YbwujzJL4jw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i6wrwKy.png" group-title="Musicales", NTV | SD | Rusia
 http://ott-cdn.ucom.am/s17/index.m3u8
