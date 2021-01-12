@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://pastebin.com/raw/Ayau5dtS
-#ultima actualizacion:07/01/2021
+#ultima actualizacion:11/01/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -14,7 +14,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 07/01/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 11/01/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -141,13 +141,13 @@ https://stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8
 https://srv4.zcast.com.br/erickzambra/erickzambra/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I8DXpfo.png" group-title="Chile", TV Elqui | HD | La Serena
-https://i.imgur.com/Cc1CypC.mp4
+https://593b04c4c5670.streamlock.net/8116/8116/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I8DXpfo.png" group-title="Chile", TV Elqui Señal 2 | SD | La Serena
-https://i.imgur.com/Cc1CypC.mp4
+https://593b04c4c5670.streamlock.net/8116/8116/chunklist_w883424850.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62DM1qo.png" group-title="Chile", Thema TV | HD | La Serena
-https://i.imgur.com/Cc1CypC.mp4
+https://unlimited2-cl.dps.live/thema/thema.smil/thema/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MxFTN6J.png" group-title="Chile", La Popular TV | HD | Illapel
 https://5d1ca66d2d698.streamlock.net:1936/8076/mp4:8076_720p/playlist.m3u8
@@ -220,7 +220,7 @@ https://unlimited10-cl.dps.live/vivotv/vivotv.smil/vivotv/livestream2/chunks.m3u
 https://unlimited1-cl.dps.live/tctc/tctc.smil/tctc/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oja3zXk.png" group-title="Chile", Nativa TV | SD | Talca
-https://i.imgur.com/Cc1CypC.mp4
+https://mediacpstreamchile.com:1936/nativa3/ngrp:nativa3_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5RzXtn.png" group-title="Chile", Campus TV | HD | Talca
 http://unlimited2-cl.dps.live/campustv/campustv.smil/playlist.m3u8
@@ -238,7 +238,7 @@ https://unlimited10-cl.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 https://inliveserver.com:1936/11516/11516/chunklist_w1025692689.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ptBqBze.png" group-title="Chile", Estación TV | HD | Chillán
-https://i.imgur.com/Cc1CypC.mp4
+http://unlimited1-cl.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxSNXOT.png" group-title="Chile", Contexto Ñuble | SD | Chillán
 https://mediacpstreamchile.com:1936/contextonuble/contextonuble/playlist.m3u8
@@ -262,7 +262,7 @@ http://v2.tustreaming.cl/clicktv/tracks-v1a1/mono.m3u8
 http://evo.eltelon.com:1935/live/tv4-television/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xv6Dan8.png" group-title="Chile", LTV | SD | Renaico
-https://i.imgur.com/Cc1CypC.mp4
+https://medios.sirtel.cl/live/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zkEOJj3.png" group-title="Chile", Exprezion TV | HD | Los Álamos
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
@@ -271,7 +271,7 @@ https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 https://5d1ca66d2d698.streamlock.net:1936/8038/8038/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vpb5j5X.jpg" group-title="Chile", Tec TV | SD | Temuco
-https://i.imgur.com/Cc1CypC.mp4
+http://190.107.176.55:1935/live/tec-tv/chunklist_w1739184121.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpnkBzN.png" group-title="Chile", UATV | FHD | Temuco
 https://unlimited1-cl.dps.live/uatv/uatv.smil/uatv/livestream1/chunks.m3u8
@@ -333,7 +333,7 @@ http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
 https://i.imgur.com/Cc1CypC.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwH8FnR.png" group-title="Chile", Canal Sur Patagonia | SD | Coyhaique
-https://i.imgur.com/Cc1CypC.mp4
+https://v2.tustreaming.cl/canalsurpatagonia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VhOolgs.png" group-title="Chile", El Pingüino | HD | Punta Arenas
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
@@ -351,7 +351,7 @@ https://tls.cdnz.cl/tser5/ngrp:live_all/playlist.m3u8
 https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAEj0N2.png" group-title="Chile", EvaStream TV | SD | Puerto Natales
-https://i.imgur.com/Cc1CypC.mp4
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OTAEvIn.png" group-title="Chile", Evavisión | SD | Puerto Natales
 https://stmv.panel.mivideo.pro/evatelevision/evatelevision/playlist.m3u8
@@ -385,8 +385,7 @@ http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1060324053.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fTcl43.png" group-title="Cine y Series", A3Cine| FHD | España
-http://stream.pcriot.com/ZiF2/a3.php/a3cine-1080.m3u8
-
+http://stream.pcriot.com/ZyH3/a3.php/a3cine-index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAiUxSx.png" group-title="Cine y Series", Rec On Line | HD | Bolivia
@@ -424,8 +423,6 @@ https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YET2SYW.png" group-title="Cine y Series", Orbit TV | SD | Rep. Dominicana
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8kylKlz.png" group-title="Cine y Series", Vallevisión | HD | Rep. Dominicana
-https://i.imgur.com/Cc1CypC.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mkjt2l.png" group-title="Cine y Series", Miptv | HD | Colombia
 https://servers.amelbasoluciones.co:19360/8100/8100.m3u8
@@ -781,7 +778,7 @@ http://ott-cdn.ucom.am/s81/index.m3u8
 http://ott-cdn.ucom.am/s82/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8rOJgmD.png" group-title="Deportes", Viasat Sports | SD | Rusia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rOJgmD.png" group-title="Deportes", Viasat Sports | HD | Rusia
 http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
 
 
@@ -995,6 +992,10 @@ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
 #EXTINF:-1, tvg-logo="https://i.imgur.com/Pic7Nap.png" group-title="Internacionales", France 24 | FHD | Francia
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_1200.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/7mj9IkV.jpg" group-title="Internacionales", Euronews | HD | Francia
+https://euronews-es-p11-cdn.hexaglobe.net/b64576c45bcfd6373c62993620727c5b/5ffca5ad/euronews/euronews-euronews-website-web-responsive-2/ewnsabres_spa.smil/ewnsabres_spa_720p33.m3u8
 
 
 
@@ -1306,6 +1307,10 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNMvxoO.png" group-title="Familiares", Snick | SD | Rep. Dominicana
 http://8.9.4.128:8080/hls/snick.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="Familiares", Tooncast | SD |
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hK6AHIn.png" group-title="Familiares", Cachipum TV | SD | Chile
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
@@ -2058,6 +2063,9 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iIZikHS.png" group-title="Rep. Dominicana",Telecentro 13 | SD | Santo Domingo
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kylKlz.png" group-title="Rep. Dominicana", Vallevisión | HD | La Vega
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HJeqAzj.png" group-title="Rep. Dominicana", Fuego TV | SD | Santiago
 https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w1482703670.m3u8
@@ -2086,7 +2094,7 @@ https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1325683681.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iWeYJSw.png" group-title="Uruguay", -[COLOR cyan]Uruguay[/COLOR]-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWeYJSw.png" group-title="Uruguay", - Uruguay -
 https://i.imgur.com/vAluESq.mp4
 
 
@@ -2097,7 +2105,7 @@ http://s5.mexside.net:1935/tvflorida/tvflorida/chunklist_w2046271253.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8?m=1567330603
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pDLwbc0.png" group-title="Venezuela", -[COLOR cyan]Venezuela[/COLOR]-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pDLwbc0.png" group-title="Venezuela", - Venezuela -
 https://i.imgur.com/17muPsg.mp4
 
 
@@ -3672,11 +3680,20 @@ https://sonic.portalfoxmix.cl:7131/stream/1/
 https://i.imgur.com/KuqaZul.mp4
 
 
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/E8cJyLw.jpg" group-title="Radios K-Pop & J-Pop", Akari Radio (Ecuador)
+https://node-26.zeno.fm/0t952vqukfeuv?rj-ttl=5&rj-tok=AAABdotyp9AAJfddmGW35WrTxQ
+
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/UBhqIXm.jpg" group-title="Radios K-Pop & J-Pop", Akihabara Radio (Chile)
 https://azura11.instainternet.com/radio/8020/radio.mp3
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/L2Z4mbh.png" group-title="Radios K-Pop & J-Pop", Anime Nexus (México)
 http://radio.animenexus.mx:8000/animenexus
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/i5NmdMc.png" group-title="Radios K-Pop & J-Pop", Magic Kids  (Argentina)
+http://142.44.135.172:8197/;stream.nsv
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/zW3CA4Y.png" group-title="Radios K-Pop & J-Pop", Radio Anime (México)
+https://radioanime.radioca.st/stream
 
 
 
@@ -3793,45 +3810,10 @@ http://hd.chileservidores.cl:8080/reseller/chiloe2/playlist.m3u8
 https://unlimited2-cl.dps.live/smtv/smtv.smil/smtv/livestream1/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I8DXpfo.png" group-title="Chile", TV Elqui | HD | La Serena
-https://593b04c4c5670.streamlock.net/8116/8116/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I8DXpfo.png" group-title="Chile", TV Elqui Señal 2 | SD | La Serena
-https://593b04c4c5670.streamlock.net/8116/8116/chunklist_w883424850.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62DM1qo.png" group-title="Chile", Thema TV | HD | La Serena
-https://unlimited2-cl.dps.live/thema/thema.smil/thema/livestream1/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aa353xY.png" group-title="Chile", Estudio Televisión | SD | La Ligua
 https://5d8b8e0ea0b59.streamlock.net/estudio-tv/estudio-tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oja3zXk.png" group-title="Chile", Nativa TV | SD | Talca
-https://mediacpstreamchile.com:1936/nativa3/ngrp:nativa3_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ptBqBze.png" group-title="Chile", Estación TV | HD | Chillán
-http://unlimited1-cl.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream1/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xv6Dan8.png" group-title="Chile", LTV | SD | Renaico
-https://medios.sirtel.cl/live/stream/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vpb5j5X.jpg" group-title="Chile", Tec TV | SD | Temuco
-http://190.107.176.55:1935/live/tec-tv/chunklist_w1739184121.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QwH8FnR.png" group-title="Chile", Canal Sur Patagonia | SD | Coyhaique
-https://v2.tustreaming.cl/canalsurpatagonia/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RAEj0N2.png" group-title="Chile", EvaStream TV | SD | Puerto Natales
-https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8kylKlz.png" group-title="Cine y Series", Vallevisión | HD | Rep. Dominicana
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 
 
