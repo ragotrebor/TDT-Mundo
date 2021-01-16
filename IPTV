@@ -3,8 +3,8 @@
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
 #Canales de TV y Radios online
-#playlist: https://pastebin.com/raw/Ayau5dtS
-#ultima actualizacion:13/01/2021
+#playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
+#ultima actualizacion:16/01/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -14,7 +14,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 13/01/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 16/01/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -35,7 +35,7 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Chile", Contivisión | HD | Constitución
 http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0kJfD7l.png" group-title="Chile", TV CHILE | HD | Santiago 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png" group-title="Chile", TV CHILE | HD | Santiago 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxlQ1we.png" group-title="Chile", UES TV| HD | Santiago
@@ -75,7 +75,7 @@ https://unlimited2-cl.dps.live/lttv/lttv.smil/lttv/livestream2/chunks.m3u8
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVy05TP.png" group-title="Chile", TVN Chile | HD | Santiago 
-https://cl-v1-c-e-aa1.cdn.mdstrm.com/live-stream/5346f657c1e6f5810b5b9df3/publish/media_1000.m3u8
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="Chile", Canal 21 | HD | Chillan
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
@@ -924,6 +924,12 @@ http://v2.tustreaming.cl/restaurandovidastv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18HevcH.png" group-title="Cristianos", Televida Chillán| HD | Evangélico | Chile
 https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9JdWIvy.png" group-title="Cristianos", Señales TV | SD | Evangélico | El Salvador
+https://rctvhdstream.com:8081/senalestvlive/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ePEuNC.png" group-title="Cristianos", Presencia TV| HD | Iglesia Actividad Esencial| Chile
 https://v2.tustreaming.cl/unidadevangelica/live1/tracks-v1a1/mono.m3u8
 
@@ -1351,6 +1357,14 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Chile", Paka Paka (Kodi) | HD | Argentina
+plugin://plugin.video.youtube/play/?video_id=foTAdsY-p8I
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Chile", Paka Paka | HD | Argentina
+https://www.youtube.com/watch?v=foTAdsY-p8I
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cG5DVb2.png" group-title="Argentina", -Argentina-
 https://i.imgur.com/Av8yUYC.mp4
@@ -1377,7 +1391,10 @@ https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A64YheQ.jpg" group-title="Argentina", Net TV | HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkZx6vL.png" group-title="Argentina", Telpin TV | SD | Pinamar
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U30RDEp.png" group-title="Argentina", Net TV | HD 
 https://unlimited6-cl.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ha46eGP.png" group-title="Argentina", Canal 3| SD | Rosario
@@ -1388,6 +1405,15 @@ https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Argentina", CN3 | SD | Pinamar
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Argentina", CN3 | HD | Pinamar | Alt.
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Argentina", CN3 | HD | Pinamar | Alt.
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1295834431.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lanhn6D.png" group-title="Argentina", Canal 4 Teleaire | SD | San Martín
 https://stmvideo.livecastv.com/canal4/canal4/playlist.m3u8
@@ -1608,12 +1634,13 @@ http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JsqgSmX.png" group-title="Bolivia", ATB| SD 
 http://186.121.206.197/live/daniel/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K56SJba.png" group-title="Bolivia", Bolivia TV 7.1| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbMaclw.png" group-title="Bolivia", Bolivia TV 7.1| SD
 http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w352402513.m3u8
 
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K56SJba.png" group-title="Bolivia", Bolivia TV 7.2| SD 
-http://btvboliviat987.srfms.com:1935/btvboliviat987/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbMaclw.png" group-title="Bolivia", Bolivia TV 7.2| SD 
+https://i.imgur.com/Cc1CypC.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSIGTy.png" group-title="Bolivia", Radio Televisión Popular | SD 
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
@@ -1781,12 +1808,21 @@ https://i.imgur.com/KBmDk8u.mp4
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iy5jUjV.png" group-title="El Salvador", Canal 10| HD 
+http://streamingcws20.com:1935/tves/tves.smil/chunklist_w1862063957_b978000_sleng.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCNUpYh.jpg" group-title="El Salvador", Orbita TV 25 | SD
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QZud0Lt.png" group-title="El Salvador", Canal 33 | SD
 ttps://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mw9oeEb.png" group-title="El Salvador", TCS | HD
+https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8
 
 
 
@@ -1993,7 +2029,7 @@ https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1z3t61J.png" group-title="Perú", BHTV | HD 
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LitWQYe.png" group-title="Perú", Panamericana | SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú", Panamericana | SD 
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcRl6xw.png" group-title="Perú", Hatun TV | SD 
@@ -2139,7 +2175,11 @@ http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/utoRX9A.png" group-title="Venezuela", Televen| SD 
-http://178.162.128.44:1935/televen/televenweb/playlist.m3u8
+https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rwpllO.png" group-title="Venezuela", Canal i | SD | Venezuela
+https://vcp.myplaytv.com/canali/canali/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VVI80Ig.png" group-title="Musicales", -Musicales-
@@ -2362,6 +2402,9 @@ https://edge214.rcs-rds.ro/V4-8226014-92ffe86f36eac4a3a9cada186bb3d32d-336227636
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2KPPaAM.png" group-title="Musicales", Rock TV | SD | Rumanía
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UEgdZo1.png" group-title="Musicales", Kiss TV | SD | Rumanía
+https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w4885328_b1600000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5euWt1.png" group-title="Musicales", Mooz  | SD | Rumanía
@@ -3707,6 +3750,10 @@ https://radioanime.radioca.st/stream
 https://i.imgur.com/kISRdyL.mp4
 
 
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/75FDrud.png" group-title="Radios Internacionales", Radio Sputnik | Rusia
+https://nfw.ria.ru/flv/audio.aspx?ID=58982499&type=mp3
+
+
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Ov6LR8j.png" group-title="Radios Internacionales", Vatican News | Ciudad del Vaticano
 https://rvl.azureedge.net/channel5.mp3
 
@@ -3818,7 +3865,8 @@ https://unlimited2-cl.dps.live/smtv/smtv.smil/smtv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aa353xY.png" group-title="Chile", Estudio Televisión | SD | La Ligua
 https://5d8b8e0ea0b59.streamlock.net/estudio-tv/estudio-tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbMaclw.png" group-title="Bolivia", Bolivia TV 7.2| SD 
+http://btvboliviat987.srfms.com:1935/btvboliviat987/livestream/playlist.m3u8
 
 
 
