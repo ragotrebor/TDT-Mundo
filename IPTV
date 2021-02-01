@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:26/01/2021
+#ultima actualizacion:01/02/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -14,7 +14,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 26/01/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 01/02/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -365,6 +365,9 @@ https://i.imgur.com/KuqaZul.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zLT9RmC.png" group-title="Cine y Series",Zee Mundo Bollywood | HD | India
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zutGDVK.png" group-title="Cine y Series", Canal de las Estrellas | HD | México
+https://m3u-editor.com/serve/rokumaniatest/164011175
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Novelas | HD | Estados Unidos
 https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
 
@@ -597,6 +600,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f20007
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqrekyX.png" group-title="Pluto TV", Las Pistas de Blue | SD
+https://m3u-editor.com/serve/rokumaniatest/170159365
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlqeZFf.png" group-title="Pluto TV", Pluto TV Teen| SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=70b83b16-f690-11ea-a685-0242ac110002&userId=&serverSideAds=true
@@ -626,25 +634,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=38279f58-67e9-4189-874f-bc6305cd9296&userId=&serverSideAds=true
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Nt658R.png" group-title="Pluto TV", Telemundo Novelas | SD
+https://m3u-editor.com/serve/rokumaniatest/164011124
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyiavQq.png" group-title="Pluto TV", Velocidad | SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=7f1f2c55-f696-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1302,11 +1298,18 @@ https://i.imgur.com/KuqaZul.mp4
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sXfxsoL.png" group-title="Familiares", Kanade | HD | Chile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXfxsoL.png" group-title="Familiares", Kanade TV | HD | Chile
 http://207.246.84.143:8080/hls/Kanade.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXfxsoL.png" group-title="Familiares", Kanade TV | HD | Chile | Alt.
+http://live.kanadetv.club:8080/hls/Kanade.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana | Alt.
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNMvxoO.png" group-title="Familiares", Snick | SD | Rep. Dominicana
@@ -1318,11 +1321,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hK6AHIn.png" group-title="Familiares", Cachipum TV | SD | Chile
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV | SD | Chile
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="Familiares", Futurama Manía| FHD | Colombia
 https://m3u-editor.com/serve/rokumaniatest/156476844
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2mDD6d0.png" group-title="Familiares", Simpson Manía | SD | Colombia
+https://m3u-editor.com/serve/rokumaniatest/156476845
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV | SD | Chile
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="Familiares", El Chavo  TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
@@ -1349,11 +1355,11 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Chile", Paka Paka (Kodi) | HD | Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares", Paka Paka (Kodi) | HD | Argentina
 plugin://plugin.video.youtube/play/?video_id=foTAdsY-p8I
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Chile", Paka Paka | HD | Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares", Paka Paka | HD | Argentina
 https://www.youtube.com/watch?v=foTAdsY-p8I
 
 
@@ -2337,6 +2343,12 @@ https://5b38ce71f1f00.streamlock.net/8066/8066/chunklist_w1605103723.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1LjGLmn.png" group-title="Musicales", Mola TV | HD | España
 http://ventdelnord.tv:8080/mola/directe.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v2PxII1.jpg" group-title="Musicales", Xtra TV | HD | España
+https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v2PxII1.jpg" group-title="Musicales", Xtra TV | HD | España
+https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpxAk6k.png" group-title="Musicales",Planet Music | HD | Estados Unidos
 https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
 
@@ -2451,11 +2463,16 @@ https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fUPxix.png" group-title="Musicales", 4Fun | HD | Polonia | Alt.
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z5NYyHk.png" group-title="Musicales", 1Muz | HD | Bielorrusia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RU7jA3I.png" group-title="Musicales", 1Muz | HD | Bielorrusia
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Z6GjxM.png" group-title="Musicales", 1Muz | HD | Rusia
 http://rtmp.one.by:2300/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Z6GjxM.png" group-title="Musicales", 1Muz | HD | Rusia | Alt.
+https://nrpus.bozztv.com/36bay2/gin/giniko_1muscom_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZHe201.jpg" group-title="Musicales", HITV | SD | Rusia
 https://rosshow.gcdn.co/streams/1410_287/480n/index.m3u8
