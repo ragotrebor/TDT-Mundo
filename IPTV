@@ -4,7 +4,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:01/02/2021
+#ultima actualizacion:03/02/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -14,7 +14,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 01/02/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 03/02/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -1312,8 +1312,8 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xNMvxoO.png" group-title="Familiares", Snick | SD | Rep. Dominicana
-http://8.9.4.128:8080/hls/snick.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares", Boomerang TV | HD | Rep. Dominicana
+http://8.9.4.128:8080/hls/boomerangtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="Familiares", Tooncast | SD | Estados Unidos
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
