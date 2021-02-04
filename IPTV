@@ -1,10 +1,11 @@
 #EXTM3U
 
+
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:03/02/2021
+#ultima actualizacion:04/02/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -14,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 03/02/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 04/02/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -1329,6 +1330,10 @@ https://m3u-editor.com/serve/rokumaniatest/156476845
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDNriCW.png" group-title="Familiares", South Park Twitch | SD | Colombia
+https://m3u-editor.com/serve/rokumaniatest/156476846
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="Familiares", El Chavo  TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
