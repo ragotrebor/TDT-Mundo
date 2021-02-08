@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:04/02/2021
+#ultima actualizacion:08/02/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 04/02/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 08/02/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -1220,7 +1220,7 @@ https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oy1GZJK.jpg" group-title="España", Radio Televisión Ceuta| HD | Ceuta
-https://cdnlive.shooowit.net/rtvcelive/channel2.smil/chunklist_b2500000.m3u8
+https://cdnlive.shooowit.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZSJoOf.png" group-title="España", TV Melilla| HD | Melilla
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
