@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:08/02/2021
+#ultima actualizacion:09/02/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 08/02/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 09/02/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -1311,6 +1311,10 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana | Alt.
 http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Loving | SD | República Dominicana 
+http://azxtv.com/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares", Boomerang TV | HD | Rep. Dominicana
