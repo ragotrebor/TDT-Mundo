@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:09/02/2021
+#ultima actualizacion:13/02/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 09/02/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 13/02/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -388,6 +388,9 @@ http://media.profesionalhosting.com:1935/8175/8175/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Spc1n7c.png" group-title="Cine y Series", Red TV| HD | España
 http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1060324053.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="Cine y Series",Comedy Movies | HD | España
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fTcl43.png" group-title="Cine y Series", A3Cine| FHD | España
 http://stream.pcriot.com/ZyH3/a3.php/a3cine-index.m3u8
@@ -405,6 +408,11 @@ https://video.misistemareseller.com/Jonnytv/Jonnytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9gOcwz.png" group-title="Cine y Series", Cine Club | SD | Perú
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w1314121416.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLCYwWD.png" group-title="Cine y Series, Top Crimen | SD | España
+https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Cine y Series", TV Drama | SD | España
+https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="Cine y Series", Top Cine olympusat | HD | Estados Unidos
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
@@ -514,6 +522,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nOTPBVZ.png" group-title="Pluto TV", Cocina| SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=41cb6af1-f699-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/412VJRQ.png" group-title="Pluto TV",Combate World
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OI2xSkH.png" group-title="Pluto TV", Comedy Central Stand Up | SD 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007bf35b3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=90b514a6-f698-11ea-ac99-0242ac110002&userId=&serverSideAds=true
@@ -579,6 +590,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HtJYsyl.png" group-title="Pluto TV", MTV Pranks| SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9cdda49d-ede4-11ea-bf52-0242ac110002&userId=&serverSideAds=true
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOt2Jo2.png" group-title="Pluto TV",Pluto TV Mundo
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=959&deviceId=5d8d103f031154a4172d262b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gsAs9iA.png" group-title="Pluto TV",Narco Novelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66900909b4410007e74a50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=944&deviceId=5e66900909b4410007e74a50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJMRzDg.png" group-title="Pluto TV",Narcos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7274806621ff00072651ff/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=358&deviceId=5f7274806621ff00072651ff&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+ 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qdPq58.png" group-title="Pluto TV", Naruto| SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=00e032f5-f693-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
@@ -614,7 +637,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NEywAm3.png" group-title="Pluto TV", Reality| SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1b593072-f695-11ea-b314-0242ac110002&userId=&serverSideAds=true 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82Ii37M.png" group-title="Pluto TV", Realities en Español
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=953&deviceId=5d93b4d71754e6a4298d086e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJMXqNY.png" group-title="Pluto TV", Rugrats Crecidos | SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
@@ -819,6 +843,8 @@ http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mrjWOnQ.png" group-title="Deportes", RTM Sport | HD | Malasia
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51PCxvI.jpg" group-title="Deportes", Door Darshan Sports | HD | India
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
 
 
@@ -994,11 +1020,16 @@ http://rt-esp.secure.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png" group-title="Internacionales", Rusia Today Español| HD | Rusia | Alt.
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/Pic7Nap.png" group-title="Internacionales", France 24 | FHD | Francia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pic7Nap.png" group-title="Internacionales", France 24 | FHD | Francia
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_1200.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Internacionales",Euronews | HD | Francia
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1oAUR78.png" group-title="Internacionales",Humanity | HD | España
+https://alchimie-humanity-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HPoOb0K.png" group-title="España", -España-
@@ -1018,6 +1049,9 @@ https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ahHFH2o.png" group-title="España", Sal Televisión | SD | San Fernando
 https://bit.controlstreams.com:5443/LiveApp/streams/saltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" group-title="España",Visión 6 TV | SD | Albacete
+https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YB5ZK2f.png" group-title="España", TeleValencia | SD | Valencia
 https://live-edge-bhs-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
@@ -1300,10 +1334,10 @@ https://infantil-crtvg.flumotion.com/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sXfxsoL.png" group-title="Familiares", Kanade TV | HD | Chile
-http://207.246.84.143:8080/hls/Kanade.m3u8
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sXfxsoL.png" group-title="Familiares", Kanade TV | HD | Chile | Alt.
-http://live.kanadetv.club:8080/hls/Kanade.m3u8
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -1354,6 +1388,12 @@ http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7uBm8j5.png" group-title="Familiares", Retro TV Palmares | SD | Costa Rica
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMRkI5N.jpg" group-title="Familiares", Planeta Kids | SD | España
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="Familiares",Supertoons TV | SD | España
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OTxBese.png" group-title="Familiares", TV Educa Chile| HD | Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
  
@@ -1365,11 +1405,11 @@ https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares", Paka Paka (Kodi) | HD | Argentina
-plugin://plugin.video.youtube/play/?video_id=foTAdsY-p8I
+plugin://plugin.video.youtube/play/?video_id=1p-XnUxvTFo
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares", Paka Paka | HD | Argentina
-https://www.youtube.com/watch?v=foTAdsY-p8I
+https://www.youtube.com/watch?v=1p-XnUxvTFo
 
 
 
@@ -2207,6 +2247,9 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xHLhOOE.png" group-title="Musicales", D5 Music| HD | Francia
 https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JQaZblm.jpg" group-title="Musicales",Classical Harmony | HD | Francia
+https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWRjN6B.png" group-title="Musicales", Deutsches Musik Fernsehen| HD | Alemania
 https://tv.artcom-venture.de/dmf/tv_720.m3u8
 
@@ -2358,11 +2401,20 @@ https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2PxII1.jpg" group-title="Musicales", Xtra TV | HD | España
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/chunklist.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/guHWZwP.jpg" group-title="Musicales",Activa TV | SD | España
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpxAk6k.png" group-title="Musicales",Planet Music | HD | Estados Unidos
 https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Musicales", 30A Music | SD | Estados Unidos
 https://30a-tv.com/music.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFbbITI.jpg" group-title="Musicales",80s Party | SD | Estados Unidos
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PsrGxob.png" group-title="Musicales",Like Yesterday | HD | Estados Unidos
+https://7b65d9c562ad41b4b6efeaf1f598093d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_plex/11b32cf3-e807-4244-b949-6a22933cef3a/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlI65LX.png" group-title="Musicales",Dancestar TV | HD | Estados Unidos
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
@@ -2401,6 +2453,15 @@ http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i4qzlo.png" group-title="Musicales",My Music Channel | HD | Estados Unidos
 https://nimble.dashstreams.net/onestudio/mymusicchannel30a/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gMj1BQR.jpg" group-title="Musicales",Only 90s Kids will understand | SD | Estados Unidos
+https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/76979eef-8053-48eb-a1dc-b165e0d3dbf9/5.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9jJQXU.png" group-title="Musicales ",Texas-Sized Hits | HD | Estados Unidos
+https://8d1615d8ec69435ea11a3e039f9e3771.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_plex/b39ab3ff-fde8-42cf-a6e7-32e66a3da20a/5.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="Musicales",MTV | HD | Dinamarca
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
@@ -2436,17 +2497,27 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?sta
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0QTjHHD.png" group-title="Musicales", Mooz Ro! | SD | Rumanía
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="Musicales",Music Channel | HD | Rumanía
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ivdqYB9.png" group-title="Musicales", Rapsodia TV | SD | Rumanía
 rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="Musicales",Balkanika Music TV | Bulgaria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="Musicales",Balkanika Music TV | SD | Bulgaria
 rtsp://stream.teracomm.bg/balkanika
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fr1SYxZ.png" group-title="Musicales",MM TV | SD | Bulgaria
+https://streamer103.neterra.tv/mmtv/mmtv.smil/chunklist_w1574446231_b2628000_slbul.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gabVqZJ.png" group-title="Musicales",AlbMUSIC | HD | Albania
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNC8da3.png" group-title="Musicales", Sky Folk TV | SD | Macedonia
 http://skyfolk.mk/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djhtmFQ.png" group-title="Musicales",Baraza Music TV | HD | Grecia
+https://eco.streams.ovh/BarazaClassic/BarazaClassic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RXS9IV9.png" group-title="Musicales", Baraza TV Classic Hits | HD | Grecia
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
@@ -2537,6 +2608,8 @@ http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8kJLgIx.png" group-title="Musicales", Music 24 | SD | Israel
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XflP3YP.png" group-title="Musicales", Falastini TV | SD | Palestina
 http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
 
@@ -2551,6 +2624,9 @@ https://stream.arylive.com/MusikLive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1LRxlPE.png" group-title="Musicales", Balle Balle | HD | India
 https://mcncdndigital.com/balleballetv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ijfk5IY.png" group-title="Musicales", MH1 Music | SD | India
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OvGmTf6.png" group-title="Musicales", MK Tunes | SD | India
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 
@@ -2560,8 +2636,16 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bHFmUw1.png" group-title="Musicales",MN TV Music | SD | India
 http://mntv.livebox.co.in/musichls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NV6t1kE.png" group-title="Musicales",Public Music | SD | India
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wv8fKAs.png" group-title="Musicales", Steelbird Music | HD | India
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0jqCYU0.jpg" group-title="Musicales",7S Music | SD | India
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uQZ8d4.png" group-title="Musicales", Desi Channel| SD | Canadá (India)
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
