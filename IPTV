@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:13/02/2021
+#ultima actualizacion:14/02/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,13 +15,13 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 13/02/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 14/02/2021 -
 https://i.imgur.com/qRolRIi.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu2hq7p.png" group-title="Chile", -Chile-
-https://dc621.4shared.com/img/M6-5z47Yea/2fc3cbbe/dlink__2Fdownload_2FM6-5z47Yea_3Fsbsr_3D1159caa366929ec9e93a6ba905d72ce6a45_26bip_3DMjAwLjEwNC42OC4xNg_26lgfp_3D66_26dsid_3Di7NWadMB.2d63303d77e557fc1446a7bab7a97fcb_26bip_3DMjAwLjEwNC42OC4xNg_26bip_3DMjAwLjEwNC42OC4xNg/preview.mp4
+https://i.imgur.com/EwJbXKm.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Chile", UCV  | SD | Valparaíso
@@ -76,7 +76,7 @@ https://unlimited2-cl.dps.live/lttv/lttv.smil/lttv/livestream2/chunks.m3u8
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVy05TP.png" group-title="Chile", TVN Chile | HD | Santiago 
-https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
+http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="Chile", Canal 21 | HD | Chillan
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
@@ -323,16 +323,13 @@ http://unlimited10-cl.dps.live/decimatv/decimatv.smil/decimatv/livestream1/chunk
 https://panel.livetvvideo.net:1936/8040/8040/chunklist_w1515265270.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgsxsC5.png" group-title="Chile", Canal Chilote | SD | Castro
-https://i.imgur.com/Cc1CypC.mp4
+http://hd.chileservidores.cl:8080/reseller/chiloe2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rzv06Mv.png" group-title="Chile", Canal 2 | HD | Quellón
 https://unlimited1-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qJtecz.png" group-title="Chile", Rocco Televisión | SD | Coyhaique
 http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TjfcNcs.png" group-title="Chile", Santa María Televisión | HD | Coyhaique
-https://i.imgur.com/Cc1CypC.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwH8FnR.png" group-title="Chile", Canal Sur Patagonia | SD | Coyhaique
 https://v2.tustreaming.cl/canalsurpatagonia/tracks-v1a1/mono.m3u8
@@ -1332,8 +1329,6 @@ https://i.imgur.com/KuqaZul.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Familiares", TV Galicia Xabarín | HD | Gallego
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sXfxsoL.png" group-title="Familiares", Kanade TV | SD | Chile | Alt.
-https://dc597.4shared.com/img/Kb_UI6zdea/43b10d9e/dlink__2Fdownload_2FKb_5FUI6zdea_3Fsbsr_3D68b39ab070b3c6ce1ced972441111039a6b_26bip_3DMjAwLjEwNC42OC40NA_26lgfp_3D66_26dsid_3Di7NWadMB.75ddf11c5e85157ba10fe715114893cf_26bip_3DMjAwLjEwNC42OC40NA_26bip_3DMjAwLjEwNC42OC40NA/preview.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sXfxsoL.png" group-title="Familiares", Kanade TV | HD | Chile
 http://207.246.84.143:8080/hls/Kanade.m3u8
@@ -1353,8 +1348,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Loving | SD | República Dominicana 
 http://azxtv.com/hls/stream.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares", Boomerang TV | HD | Rep. Dominicana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares", Boomerang TV | HD | República Dominicana 
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
 
 
@@ -3134,7 +3128,8 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmSY9a9.png" group-title="Estados Unidos", -Estados Unidos-
-https://dc579.4shared.com/img/gLt17sFrea/9abb45f4/dlink__2Fdownload_2FgLt17sFrea_3Fsbsr_3D71372c58050022c02a794ad12701d3bba58_26bip_3DMjAwLjEwNC42OC4xNg_26lgfp_3D66_26dsid_3Di7NWadMB.9a9f63417fc6f4d4843995577c4ebe31_26bip_3DMjAwLjEwNC42OC4xNg_26bip_3DMjAwLjEwNC42OC4xNg/preview.mp4
+https://i.imgur.com/JdPAL5M.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="Estados Unidos", NBC (WTVJ) | HD | Nueva York
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
@@ -3193,7 +3188,7 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpTeKDx.png" group-title="Francia", -Francia-
-https://dc695.4shared.com/img/rQ7wANhzea/20d86479/dlink__2Fdownload_2FrQ7wANhzea_3Fsbsr_3Dc2aff9e7349172473d01c3d76e3e8439a58_26bip_3DMjAwLjEwNC42OC4xNg_26lgfp_3D66_26dsid_3Di7NWadMB.3aece2b1ab9cde969b7fce542114319b_26bip_3DMjAwLjEwNC42OC4xNg_26bip_3DMjAwLjEwNC42OC4xNg/preview.mp4
+https://i.imgur.com/aGVKTaD.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kuwg2Q.png" group-title="Francia",Alsace 20 | HD | Alsacia
@@ -3498,7 +3493,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdpab5Q.png" group-title="Rusia", -Rusia-
-https://dc579.4shared.com/img/7A63T8_Tiq/a97cb7ff/dlink__2Fdownload_2F7A63T8_5FTiq_3Fsbsr_3D69cd287c5227ca66c40df6cfb4f1f6e5a58_26bip_3DMjAwLjEwNC42OC4xNg_26lgfp_3D66_26dsid_3Di7NWadMB.d32adfa7bbf6fca9ac95b8b2f68452b4_26bip_3DMjAwLjEwNC42OC4xNg_26bip_3DMjAwLjEwNC42OC4xNg/preview.mp4
+https://i.imgur.com/ZVi7mTg.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCOsdzI.png" group-title="Rusia", Perviy kanal | HD 
@@ -3962,14 +3957,6 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dN5By0n.png" group-title="Papelera", -[COLOR cyan]Papelera[/COLOR]-
 https://i.imgur.com/KuqaZul.mp4
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OgsxsC5.png" group-title="Chile", Canal Chilote | SD | Castro
-http://hd.chileservidores.cl:8080/reseller/chiloe2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TjfcNcs.png" group-title="Chile", Santa María Televisión | HD | Coyhaique
-https://unlimited2-cl.dps.live/smtv/smtv.smil/smtv/livestream1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aa353xY.png" group-title="Chile", Estudio Televisión | SD | La Ligua
