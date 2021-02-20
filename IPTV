@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:14/02/2021
+#ultima actualizacion:20/02/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 14/02/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 20/02/2021-
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -391,6 +391,9 @@ https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fTcl43.png" group-title="Cine y Series", A3Cine| FHD | España
 http://stream.pcriot.com/ZyH3/a3.php/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSpY1RG.png" group-title="Cine y Series", CineAr| SD | Argentina
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAiUxSx.png" group-title="Cine y Series", Rec On Line | HD | Bolivia
@@ -804,6 +807,10 @@ http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png" group-title="Deportes", Arryadia 3| SD | Marruecos
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7lKXcM8.png" group-title="Deportes", Jordan Sports | HD | Jordania
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iAgz934.png" group-title="Deportes", Abu Dhabi Sports | HD | Emiratos Árabes 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
@@ -812,6 +819,13 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pzEl8R8.png" group-title="Deportes", Dubai Racing | HD | Emiratos Árabes
 https://dmisvthvll.cdn.mangomolo.com/events/events.smil/chunklist_b1600000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="Deportes", KTB Sports  | HD | Kuwait
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="Deportes", KTB Sports Plus | HD | Kuwait
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNHwAu8.png" group-title="Deportes", Al Kass Sports 1 | HD | Qatar
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
@@ -899,8 +913,11 @@ https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSqdNeK.jpg" group-title="Cristianos", Televid | SD | Católico | Colombia
 http://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8uWAHGL.png" group-title="Cristianos", El Sembrador Nueva Evangelización| HD | Católico | Estados Unidos.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8uWAHGL.png" group-title="Cristianos", El Sembrador Nueva Evangelización| HD | Católico | Estados Unidos
 https://zypelive-lh.akamaihd.net/i/default_1@745572/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ResFaKT.png" group-title="Cristianos", La Sagrada Familia TV | HD | Católico | Estados Unidos
+https://5b474ed5ea4c8.streamlock.net/1691/1691/chunklist_w795822853.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnpqrXi.png" group-title="Cristianos", TV Familia | SD | Católico | Venezuela
 https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
@@ -911,6 +928,9 @@ https://tvserver.ml:1443/tvca/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aQIwAAB.png" group-title="Cristianos", Canal 13 TeleOro | SD | Católico | Puerto Rico
 https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xr1K6eu.png" group-title="Cristianos", TV2000 | SD | Vaticano (Italiano)
@@ -1036,8 +1056,14 @@ https://i.imgur.com/tb5lAm6.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="España", La 1 | SD 
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="España", La 1 | HD 
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2V6Zqab.png" group-title="España", La 2 | SD 
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2V6Zqab.png" group-title="España", La 2 | HD 
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LFwKADf.png" group-title="España", Canal Sur Andalucía | FHD | Sevilla
@@ -1348,12 +1374,17 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Loving | SD | República Dominicana 
 http://azxtv.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Loving | SD | República Dominicana  | Alt.
+http://animeloving.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares", Boomerang TV | HD | República Dominicana 
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="Familiares", Tooncast | SD | Estados Unidos
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="Familiares", Tooncast | SD | Estados Unidos | Alt.
+http://mags.vip:2086/live/avila/avila/92482.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hK6AHIn.png" group-title="Familiares", Cachipum TV | SD | Chile
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
@@ -1400,6 +1431,9 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png" group-title="Familiares", Educa  TV | HD | Ecuador
 https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares", Paka Paka | SD | Argentina
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="Familiares", Paka Paka (Kodi) | HD | Argentina
@@ -2045,8 +2079,21 @@ https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 https://i.imgur.com/0Nkz7aU.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uPbVyUf.png" group-title="Paraguay", Unicanal | HD | Lambaré
-http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7IbY2i.png" group-title="Paraguay", Paraguay TV | HD | Asunción
+http://nextplayparaguay.info:25461/live/MYTVITAUGUA/QLcSmM3Cfs/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8LRqAZ6.png" group-title="Paraguay", ABC TV | SD | Asunción
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wYkGkt.jpg" group-title="Paraguay", SNT | HD | Asunción
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzNzg5NDk0LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiZjFmZmQwZTNhMzhlZTQ1ODU2YTA4YzNlNjVmNTBkYzExNjI2OGVlNSJ9
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFUxsAJ.png" group-title="Paraguay", NPY | HD | Asunción
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Paraguay", Telefuturo | HD | Asunción
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8Vzvwq.png" group-title="Paraguay", Red Chaqueña de Comunicaciones| HD | Asunción
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
@@ -2054,8 +2101,43 @@ https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LnjKjVW/GEN-TV-Paraguay-en-vivo-Online.png" group-title="Paraguay", Gen TV | SD | Asunción
 https://rds3gen.desdeparaguay.net/gentv/gentv_int_alta/chunklist_w217350564.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQTMUTp.png" group-title="Paraguay", La Tele | HD | Asunción
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-video=1532000-audio_20000=144800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZiwizY.jpg" group-title="Paraguay", C9N | HD | Asunción
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-video=3900000-audio_20000=144800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PKyqfc.png" group-title="Paraguay", Paravisión | SD | Asunción
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-video=3000000-audio_20000=144800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5n2AP6.png" group-title="Paraguay", RCN | HD | Caaguazú
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPbVyUf.png" group-title="Paraguay", Unicanal | HD | Lambaré
+http://45.55.127.106/live/unicanal_src.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKNjP4E.png" group-title="Paraguay",Trece| SD | Asunción
 http://174.138.118.252/live/trece.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRAGhg9.png" group-title="Paraguay", Mi TV | HD | Encarnación
+https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOhdHNT.png" group-title="Paraguay", Sur TV | HD | Encarnación
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QNVF58v.png" group-title="Paraguay", Somos del Este | HD | Ciudad del Este
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqZuWx5.png" group-title="Paraguay", Suceso TV | HD | San Juan Nepomuceno
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j2EkDco.png" group-title="Paraguay", Cablemás | SD | Santa Rosa del Araguay
+https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8
 
 
 
@@ -2606,7 +2688,8 @@ http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8kJLgIx.png" group-title="Musicales", Music 24 | SD | Israel
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://arabicagroup.tv/images/logo.png" group-title="Musicales", Arabica Music | HD | Líbano
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XflP3YP.png" group-title="Musicales", Falastini TV | SD | Palestina
 http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
@@ -2848,6 +2931,14 @@ https://panel.livetvvideo.net:1936/javierespinosa/javierespinosa/chunklist_w3462
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpzgjWt.png" group-title="Radios Internacionales Con Video", Radio Sanborja | SD | Perú
 https://5c3fb01839654.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mErrnY1.png" group-title="Radios Internacionales Con Video", Visión Villarrica | SD | Paraguay
+http://inliveserver.com:1935/8312/8312/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H4ImkzT.png" group-title="Radios Internacionales Con Video", Koa TV | SD | Paraguay
+https://panel.dattalive.com/8028/8028/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FK9gtEz.jpg" group-title="Radios Internacionales Con Video", Onda Madrid | SD | España
@@ -3107,7 +3198,7 @@ https://i.imgur.com/hOxFrPj.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8wpHCps.png" group-title="Corea del Norte",Korean Central TV
-https://tv.nknews.org/tvhls/stream.m3u8
+https://tv.nknews.org/tvdash/stream.mpd
 
 
 
@@ -3178,13 +3269,11 @@ https://akaku.vod.castus.tv/live/ch3.m3u8
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="Estados Unidos",NASA TV | HD
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="Estados Unidos",NASA TV | HD | Alt.
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="Estados Unidos",NASA TV Media | HD
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpTeKDx.png" group-title="Francia", -Francia-
@@ -3539,6 +3628,12 @@ http://app.live.112.events/hls/112hd_mid/index.m3u8
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N9uwQTN.png" group-title="Vietnam", -Vietnam-
+https://i.imgur.com/RSvDQ49.mp4
+
+#EXTINF:-1 tvg-logo="http://tduc.tk/logo/antv.png" group-title="Vietnam", ANTV | HD | Vietnamita
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/7wxuQKr.png" group-title="Radios Chilenas", -[COLOR cyan]Radios Chilenas[/COLOR]-
