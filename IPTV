@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:29/03/2021
+#ultima actualizacion:30/03/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 29/03/2021-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 30/03/2021-
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -676,17 +676,6 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Deportes", Garage TV | HD | Argentina
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mj91FEx.png" group-title="Deportes", Sport Italia Plus | HD | Italia
-https://spottsportitalia.akamaized.net/hls/live/2006297/spottsportitaliahls01/playlist.m3u8?cid=27725&mid=&ecid=181938&pid=5&dtid=1&ident=783878271202&hdnea=exp=1616954879~acl=/hls/live/2006297/spottsportitaliahls01/*~hmac=fdd55eb19638145e68de3a972aef8d1610787df7b008396ffd2a6e6e0fd80dbf&content=57561&path=sportitalia_01
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w0hvV0L.png" group-title="Deportes",TUDN | HD | México
-https://m3u-editor.com/serve/rokumaniatest/156476771
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mMdYXIU.png" group-title="Deportes",Fox Deportes | HD | México
-http://yt.findsports.stream/srv/foxdep.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zac5ywV.png" group-title="Deportes", Cazavisión| HD | España
 https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
@@ -3164,5 +3153,4 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GfXtUuN.png" group-title="Radios Internacionales Con Video", OTTO FM8| SD | Italia
 http://streaming.bitonlive.net:8080/hls/ottofmtv/14_13/index.m3u8
-
 
