@@ -2523,7 +2523,7 @@ https://5d1ca66d2d698.streamlock.net:1936/8064/8064/playlist.m3u8
 http://streamyes.alsolnet.com/radiofavoritatv/live/chunklist_w2007168887.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSF2gMh.png" group-title="Radios Chilenas Con Video", Infinita FM| SD | Ñuñoa
-http://unlimited6-cl.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
+https://unlimited1-cl-movistar.dps.live/infinitatv/infinitatv.smil/infinitatv/livestream1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKtBK6R.png" group-title="Radios Chilenas Con Video", InterRadio FM| SD | Frutillar
 https://v2.tustreaming.cl/interradiotv/index.m3u8
