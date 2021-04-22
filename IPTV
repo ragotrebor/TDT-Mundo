@@ -2983,6 +2983,9 @@ http://unlimited11-cl.dps.live/romantica/mp3/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/nflHOKo.jpg" group-title="Radios Chilenas", Radio San Cristóbal (97.5 FM Los Ángeles)
 https://archi-us.digitalproserver.com/sancristobal_losangeles.aac
 
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/9IetXNO.png" group-title="Radios Chilenas", Radio Valentín Letelier (97.3 FM Valparaíso)
+https://audio.streaminghd.cl:2000/stream/RadioValentinLetelier
+
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/vEYBR8D.png" group-title="Radios Chilenas", Sol (97.7 FM Antofagasta)
 https://us9.maindigitalstream.com/ssl/7389
 
@@ -3009,6 +3012,10 @@ http://185.105.4.100/proxy/radioua?mp=/stream
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/mgqpBsW.png" group-title="Radios Chilenas", Universidad de Talca Clásica (102.1 FM)
 http://iradio.utalca.cl:8000/fm
+
+#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/l2LRryl.png" group-title="Radios Chilenas", U. Tec. Fdco. Sta. María (99.7 FM Valparaíso)
+https://streamssl.eu:1288/stream?type=http&nocache=64
+
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/DkE64X1.png" group-title="Radios Chilenas", Universo (93.7 FM)
 https://unlimited4-us.dps.live/universo/aac/icecast.audio
