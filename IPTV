@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:01/05/2021
+#ultima actualizacion:16/05/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 01/05/2021-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 16/05/2021-
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -90,10 +90,7 @@ https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png" group-title="Chile", 24 Play | HD | Santiago
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uSp9hWW.png" group-title="Chile", CNN Chile | HD | Santiago
-https://m3u-editor.com/serve/rokumaniatest/220461418
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uSp9hWW.png" group-title="Chile", CNN Chile | HD | Santiago | Alt.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSp9hWW.png" group-title="Chile", CNN Chile | HD | Santiago 
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Chile", Tele 13 (Kodi) | HD 
@@ -108,11 +105,13 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="Chile", Retro Plus 2| HD | Chile - Perú
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i1wxNqd.png" group-title="Chile", TVR | FHD | Santiago
+https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fwboImE.png" group-title="Chile", Tendencias Prime 31 | HD | Ñuñoa
 https://v2.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i1wxNqd.png" group-title="Chile", TVR | FHD | Santiago
-https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMzfi10.png" group-title="Chile", Campo Abierto TV | SD | Huechuraba
 https://v2.tustreaming.cl/campoabierto/live1/tracks-v1a1/mono.m3u8
@@ -178,7 +177,7 @@ https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
 http://unlimited1-cl.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1cUgLl.png" group-title="Chile", Tu Canal | HD | Colina
-https://i.imgur.com/Cc1CypC.mp4
+http://hd.chileservidores.cl:8080/colina/colina/chunklist_w280820266.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1iCRNo.png" group-title="Chile", Pintana TV | HD | La Pintana
 https://tls.cdnz.cl/lapintana/live/playlist.m3u8
@@ -746,9 +745,6 @@ https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8r9ZR7.png" group-title="Deportes",MLB Network | HD | Estados Unidos
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7TCKU07.png" group-title="Deportes",NFL Network | HD | Estados Unidos
-https://m3u-editor.com/serve/rokumaniatest/156476789
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8PpFdD.png" group-title="Deportes",Bek Sports East | SD | Estados Unidos
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
@@ -1299,12 +1295,9 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone | SD | República Dominicana  | Alt.
 http://animeloving.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Familiares", Boomerang TV | HD | República Dominicana 
-http://8.9.4.128:8080/hls/boomerangtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bYiL538.png" group-title="Familiares", Aster Channel | HD | República Dominicana 
+http://96.30.193.226:81/hls/canalaster.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="Familiares", Futurama Manía| FHD | Colombia
-https://m3u-editor.com/serve/rokumania-master/275404524
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
@@ -1580,9 +1573,6 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 https://i.imgur.com/YuJcsAv.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cnN7Hlh.png" group-title="Colombia ", Caracol | HD | Bogotá
-https://m3u-editor.com/serve/rokumania-master/275404316
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nBvK2Nd.png" group-title="Colombia ", Noticias Caracol | HD | Bogotá
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
@@ -1764,12 +1754,6 @@ http://190.11.224.14:8134/liveevent.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ucKHJZW.png" group-title="México", -México-
 https://i.imgur.com/RIxpvUH.mp4
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRFOk7u.png" group-title="México", Azteca Uno | SD 
-https://m3u-editor.com/serve/rokumania-master/275404317
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KxMcF7I.png" group-title="México", Azteca 7 | SD 
-https://m3u-editor.com/serve/rokumania-master/275404318
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5rq2SD.png" group-title="México", TV Pacífico | HD | Culiacán
 https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/.m3u8
@@ -2458,7 +2442,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http:
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9GGVuO.png" group-title="Musicales", 4Music | SD | Reino Unido
-https://i.imgur.com/Cc1CypC.mp4
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
 
 
 
@@ -3096,8 +3080,7 @@ http://srv3.zcast.com.br/canalcostaonline/canalcostaonline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qqW7W2t.png" group-title="Chile", Vox Populi | HD | Algarrobo
 https://unlimited10-cl.dps.live/vox/vox.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A1cUgLl.png" group-title="Chile", Tu Canal | HD | Colina
-http://hd.chileservidores.cl:8080/colina/colina/chunklist_w280820266.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8p1Y7tx.png" group-title="Chile", OTV | HD | Osorno
 https://hd.chileservidores.cl:1936/osornoemergenciastv/osornoemergenciastv/chunklist_w607428499.m3u8
@@ -3110,10 +3093,6 @@ https://live-edge-la-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HLaiJKh.png" group-title="Costa Rica", UCR| FHD | San José 
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x9GGVuO.png" group-title="Musicales", 4Music | SD | Reino Unido
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GfXtUuN.png" group-title="Radios Internacionales Con Video", OTTO FM8| SD | Italia
