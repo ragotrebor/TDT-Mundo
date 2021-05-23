@@ -180,6 +180,9 @@ https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IwJYqfE.png" group-title="Chile", Canal TUTV| HD | Quillota
 https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSpzX1F.png" group-title="Chile", TV Quinta Región | HD | Valparaíso
+https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tjxjXB4.png" group-title="Chile", Quinta TV | SD | Placilla
 https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
 
@@ -1228,6 +1231,8 @@ https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/YP85bBF/Boing-2020.png" group-title="Familiares", Boing | HD | España
 https://m3u-editor.com/serve/televito85/299190280
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Familiares", ETC TV | SD | Chile
+https://m3u-editor.com/serve/televito85/300679461
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana 
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -1246,11 +1251,16 @@ http://animeloving.net/hls/stream.m3u8
 http://96.30.193.226:81/hls/canalaster.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Familiares", Kanade TV | HD | Chile 
+http://96.30.193.226:81/hls/tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Familiares", Kanade TV | HD | Chile | Alt. 
 https://m3u-editor.com/serve/televito85/296537383
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zoHgPG.jpg" group-title="Familiares", Lim TV | SD | Paraguay |
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="Familiares", Futurama Manía | HD | Colombia
 https://m3u-editor.com/serve/televito85/297794945
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
