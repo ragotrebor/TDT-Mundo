@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:22/05/2021
+#ultima actualizacion:23/05/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 22/05/2021-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 23/05/2021-
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -100,7 +100,7 @@ plugin://plugin.video.youtube/play/?video_id=f2t3330_mBk
 https://www.youtube.com/watch?v=f2t3330_mBk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1wxNqd.png" group-title="Chile", TVR | FHD | Santiago
-https://i.imgur.com/Cc1CypC.mp4
+https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sL057W6.png" group-title="Chile", Cámara De Diputados| FHD | Valparaíso
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
@@ -968,12 +968,6 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4brWBgZ.png" group-title="España", Antena 3 Internacional | HD
 https://m3u-editor.com/serve/televito85/299093905
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/ypPcFQL/Cuatro.png" group-title="España", Cuatro | HD
-https://m3u-editor.com/serve/televito85/299190325
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/PCzhdpc/Telecinco.png" group-title="España", Telecinco | HD
-https://m3u-editor.com/serve/televito85/299190286
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/0BwDZSX/La-Sexta-2016.png" group-title="España", La Sexta | HD
 https://m3u-editor.com/serve/televito85/299190290
@@ -3077,9 +3071,6 @@ https://5e36c064a2f6a.streamlock.net:1936/8614/8614/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4eGPqG.png" group-title="Chile", La Tercera TV | SD | Santiago
 https://unlimited2-cl.dps.live/lttv/lttv.smil/lttv/livestream2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i1wxNqd.png" group-title="Chile", TVR | FHD | Santiago
-https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1cUgLl.png" group-title="Chile", Tu Canal | HD | Colina
 http://hd.chileservidores.cl:8080/colina/colina/chunklist_w280820266.m3u8
