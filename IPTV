@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:23/05/2021
+#ultima actualizacion:24/05/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 23/05/2021-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 24/05/2021-
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -999,6 +999,15 @@ https://i.imgur.com/Cc1CypC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xvst8oL.png" group-title="España", DMax | HD
 http://91.126.141.12:1935/live/smil:discoverymax/chunklist_w1628272683_b1928000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j026zNO.png" group-title="España", Ten | HD
+http://91.126.141.201:1935/live/smil:ten/chunklist_w1998992806_b1928000_sleng.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/X4QnLa0.png" group-title="España", TVCS Televisió de Castelló | HD
+https://m3u-editor.com/serve/televito85/300989239
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ShyR6r9.png" group-title="España", Grupo Cadena Media | SD
+https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dL4dWWF/3324547.png" group-title="España", Hermes TV | HD | Vigo
 https://cdn01.yowi.tv/1H23S04G4M/hermesvigo.m3u8
 
@@ -1037,7 +1046,6 @@ https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4_1_1728/chunklist.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZT11Nsi.png" group-title="España", Onda 15 | HD | Valencia
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSyIrbC.png" group-title="España", La 7 | SD | Castilla y León 
 https://cdnlive.shooowit.net/la7live/channel1.smil/.m3u8
@@ -1432,9 +1440,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Fw4HQ1.png" group-title="Argentina", 13max Digital | HD 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/5FNngFD/Canal-13-2016.png" group-title="Argentina", El Trece | HD | Buenos Aires
-https://m3u-editor.com/serve/televito85/299133664
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUCtN42.png" group-title="Argentina", Canal 13  | HD | San Luis
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
@@ -2078,6 +2083,8 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTrgFSx.png" group-title="Musicales", Radio Televisión Makao | HD | Rep. Dominicana
 https://cdn4.hostlagarto.com:8081/static/Makaotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iAyjLaA.png" group-title="Musicales", Hits 360° | HD | Rep. Dominicana
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sFdXXL6/tumus.png" group-title="Musicales", Tu Música | HD | Rep. Dominicana
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
@@ -2641,6 +2648,10 @@ https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DyxC3ez.png" group-title="Radios Internacionales Con Video", TSN Sondrio | SD | Italia
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwYD35p.png" group-title="Radios Internacionales Con Video", Virgin TV Radio | SD | Italia
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/stream01/streamPlaylist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swlsIiL.png" group-title="Radios Internacionales Con Video", Fox News | HD | Estados Unidos
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
