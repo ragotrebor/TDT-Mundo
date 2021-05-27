@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:24/05/2021
+#ultima actualizacion:27/05/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 24/05/2021-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 27/05/2021-
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -843,7 +843,7 @@ https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 http://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8uWAHGL.png" group-title="Cristianos", El Sembrador Nueva Evangelización| HD | Católico | Estados Unidos
-https://zypelive-lh.akamaihd.net/i/default_1@745572/index_720_av-p.m3u8
+https://zypelive-lh.akamaihd.net/i/default_1@44045/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ResFaKT.png" group-title="Cristianos", La Sagrada Familia TV | HD | Católico | Estados Unidos
 https://5b474ed5ea4c8.streamlock.net/1691/1691/chunklist_w795822853.m3u8
