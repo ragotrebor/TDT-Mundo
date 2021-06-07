@@ -5,7 +5,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:27/05/2021
+#ultima actualizacion:07/06/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -15,7 +15,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 27/05/2021-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 07/06/2021-
 https://i.imgur.com/qRolRIi.mp4
 
 
@@ -699,7 +699,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab47
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aR5CJYy.png" group-title="Deportes", -Deportes-
 https://storage.googleapis.com/dailycl4/4/4.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UCXDQcD.png" group-title="Deportes", Match TV | SD | Rusia
+https://m3u-editor.com/serve/televito85/312382046
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="Deportes", Teletrak | SD | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
