@@ -46,16 +46,16 @@ http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 https://unlimited2-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BapqWkd.png" group-title="Chile", Mega | HD | Santiago
-https://dx9dkszwgj.azcdn107.net:8443/hls/8uivez2xwc4h8.m3u8?s=wGrL8VhlVndlbX2beapskw&e=1623214047
+https://m3u-editor.com/serve/televito85/299163938
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uOWFEXO.png" group-title="Chile", Chilevisión | HD | Santiago
-http://212.224.98.207:2200/EX/Premier_Sports_2_HD-uk/tracks-v1a1/mono.m3u8?token=null
+https://m3u-editor.com/serve/televito85/299163938
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png" group-title="Chile", Contivisión | HD | Constitución
 http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nCw8qUd.png" group-title="Chile", Canal 13 | HD | Santiago
-http://212.224.98.204:2200/NL/mlcampeon1hd-esp/index.m3u8?token==
+https://m3u-editor.com/serve/televito85/299163938
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="Chile", Tevex | HD | Santiago
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
