@@ -133,3 +133,12 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://rtmp.one.by:2300/
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png", CN3 | SD | Pinamar
+http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png", CN3 | HD | Pinamar | Alt.
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png", CN3 | HD | Pinamar | Alt.
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1295834431.m3u8
+
