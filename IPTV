@@ -372,40 +372,37 @@ https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xI9nQu9.png" group-title="Eventos Copa América y Euro", -Copa América y Euro-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xI9nQu9.png" group-title="Eventos", -Copa América y Euro-
 https://i.imgur.com/KuqaZul.mp4
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/dOZr4Th.png" group-title="Copa América y Euro", TUDN | HD | México
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319392861
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/UCXDQcD.png" group-title="Copa América y Euro", Match TV | SD | Rusia
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UCXDQcD.png" group-title="Eventos", Match TV | SD | Rusia
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319432014
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DT9bDhK.png" group-title="Copa América y Euro", Tele Doce | HD | Uruguay
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319698309
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Copa América y Euro", Telefuturo | HD | Paraguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Eventos", Telefuturo | HD | Paraguay
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Copa América y Euro", CN3 Pinamar | SD | Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Eventos", CN3 Pinamar | SD | Argentina
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/npdMfj2.png" group-title="Copa América y Euro", Canal 9 Resistencia | HD | Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npdMfj2.png" group-title="Eventos", Canal 9 Resistencia | HD | Argentina
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Copa América y Euro", Eurocopa
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Eventos", Eurocopa
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319713743
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Copa América y Euro", Eurocopa 2
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Eventos", Eurocopa 2
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319713842
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Copa América y Euro", Eurocopa 3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Eventos", Eurocopa 3
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319713844
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/i8ZVzLQ.jpg" group-title="Copa América y Euro", Copa América 1
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i8ZVzLQ.jpg" group-title="Eventos", Copa América 1
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319714678
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/i8ZVzLQ.jpg" group-title="Copa América y Euro", Copa América 2
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i8ZVzLQ.jpg" group-title="Eventos", Copa América 2
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319725238
 
 
@@ -2057,8 +2054,6 @@ https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1325683681.m3u8
 https://i.imgur.com/vAluESq.mp4
 
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/DT9bDhK.png" group-title="Uruguay", Tele Doce Uruguay
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319698309
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UwnVCgD.png" group-title="Uruguay", TVF | HD | Florida
 http://s5.mexside.net:1935/tvflorida/tvflorida/chunklist_w2046271253.m3u8
