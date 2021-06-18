@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
 #Canales de TV y Radios online
@@ -16,7 +17,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 18/06/2021-
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319432053
+https://i.imgur.com/KuqaZul.mp4
 
 
 
@@ -372,7 +373,7 @@ https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xI9nQu9.png" group-title="Eventos", -Eventos-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xI9nQu9.png" group-title="Eventos", -Copa América y Euro-
 https://i.imgur.com/KuqaZul.mp4
 
 
