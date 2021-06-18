@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
 #Canales de TV y Radios online
@@ -370,6 +369,44 @@ https://tls.cdnz.cl/tser5/ngrp:live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vx20KSy.jpg" group-title="Chile", Umag TV 2| HD | Punta Arenas
 https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xI9nQu9.png" group-title="Eventos Copa América y Euro", -Copa América y Euro-
+https://i.imgur.com/KuqaZul.mp4
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dOZr4Th.png" group-title="Copa América y Euro", TUDN | HD | México
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319392861
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/UCXDQcD.png" group-title="Copa América y Euro", Match TV | SD | Rusia
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319432014
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DT9bDhK.png" group-title="Copa América y Euro", Tele Doce | HD | Uruguay
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319698309
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Copa América y Euro", Telefuturo | HD | Paraguay
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Copa América y Euro", CN3 Pinamar | SD | Argentina
+http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npdMfj2.png" group-title="Copa América y Euro", Canal 9 Resistencia | HD | Argentina
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Copa América y Euro", Eurocopa
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319713743
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Copa América y Euro", Eurocopa 2
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319713842
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BgVP0K8.png" group-title="Copa América y Euro", Eurocopa 3
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319713844
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i8ZVzLQ.jpg" group-title="Copa América y Euro", Copa América 1
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319714678
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i8ZVzLQ.jpg" group-title="Copa América y Euro", Copa América 2
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319725238
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xI9nQu9.png" group-title="Cine y Series", -Cine y Series-
@@ -1428,9 +1465,6 @@ http://www.coninfo.net:1935/9linklive/live/chunklist_w484920742.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWFGnL6.png" group-title="Argentina", 9 Televida | HD | Mendoza
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w2109451929.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/npdMfj2.png" group-title="Argentina", Canal 9 | HD | Resistencia
-http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zfu8R8d.png" group-title="Argentina", Canal 9 | HD | Comodoro Rivadavia
 https://live.canalnueve.tv/canal.m3u8
 
@@ -1452,12 +1486,6 @@ https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Argentina", TeleFe | HD | Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Argentina", TeleFe | HD | Tucumán
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Argentina", TeleFe | HD | Santa Fe
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/index_1_av-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om4mvzj.png" group-title="Argentina", Canal 12 | HD | Puerto Madryn 
@@ -1937,6 +1965,10 @@ https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 https://i.imgur.com/PGqJ0Tj.mp4
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nXOHzqA.png" group-title="Perú", Latina | HD
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319698305
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJqimK3.png" group-title="Perú", TV Peru | SD
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
@@ -2025,6 +2057,9 @@ https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1325683681.m3u8
 https://i.imgur.com/vAluESq.mp4
 
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DT9bDhK.png" group-title="Uruguay", Tele Doce Uruguay
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319698309
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UwnVCgD.png" group-title="Uruguay", TVF | HD | Florida
 http://s5.mexside.net:1935/tvflorida/tvflorida/chunklist_w2046271253.m3u8
 
@@ -2066,6 +2101,10 @@ https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5rwpllO.png" group-title="Venezuela", Canal i | SD | Venezuela
 https://vcp.myplaytv.com/canali/canali/.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/W2dWjd4.png" group-title="Venezuela", Vivo Play | HD
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319698308
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VVI80Ig.png" group-title="Musicales", -Musicales-
