@@ -6,7 +6,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:18/06/2021
+#ultima actualizacion:20/06/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -16,7 +16,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 18/06/2021-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualizado 20/06/2021 -
 https://i.imgur.com/KuqaZul.mp4
 
 
@@ -1327,7 +1327,7 @@ http://animeloving.net/hls/stream.m3u8
 http://96.30.193.226:81/hls/canalaster.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Familiares", Kanade TV | HD | Chile 
-https://m3u-editor.com/serve/televito85/296537383
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/320935331
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zoHgPG.jpg" group-title="Familiares", Lim TV | HD | Paraguay |
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
@@ -3160,5 +3160,4 @@ https://cloud.streamingconnect.tv:455/populartvrm/populartvrm.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FwcwAJ7.png" group-title="Honduras",Teleceiba Canal 7 | SD | La Ceiba
 http://190.11.224.14:8134/liveevent.m3u8
-
 
