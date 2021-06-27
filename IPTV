@@ -374,7 +374,7 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319432014
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Eventos", Telefuturo | HD | Paraguay
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w94512481.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Eventos", CN3 Pinamar | SD | Argentina
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
@@ -1901,7 +1901,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Paraguay", Telefuturo | HD | Asunción
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w94512481.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8Vzvwq.png" group-title="Paraguay", Red Chaqueña de Comunicaciones| HD | Asunción
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
