@@ -6,7 +6,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:22/06/2021
+#ultima actualizacion:27/06/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -16,7 +16,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Actualización Completa!!! 22/06/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Última Actualización - 27/06/2021 -
 https://i.imgur.com/KuqaZul.mp4
 
 
@@ -373,8 +373,14 @@ https://i.imgur.com/KuqaZul.mp4
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319432014
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Eventos", Telefuturo | HD | Paraguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Eventos", Telefuturo | SD | Asunción
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w2078777506.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Eventos", Telefuturo | HD | Asunción
 https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w94512481.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Eventos", Telefuturo | FHD | Asunción
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_alta/chunklist_w274703456.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png" group-title="Eventos", CN3 Pinamar | SD | Argentina
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
@@ -1295,6 +1301,9 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Familiares", Magic Kids| SD | Argentina
 https://live.admefy.com/live/240/clean_peach_ef224.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6EKHoMK.png" group-title="Familiares", Teleanimación | SD | Argentina
+https://live.admefy.com/live/default/socialist_azure_5d76a.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone | SD | República Dominicana 
 http://azxtv.com/hls/stream.m3u8
 
@@ -1900,8 +1909,14 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFUxsAJ.png" group-title="Paraguay", NPY | HD | Asunción
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Paraguay", Telefuturo | SD | Asunción
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w2078777506.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Paraguay", Telefuturo | HD | Asunción
 https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w94512481.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Paraguay", Telefuturo | FHD | Asunción
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_alta/chunklist_w274703456.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b8Vzvwq.png" group-title="Paraguay", Red Chaqueña de Comunicaciones| HD | Asunción
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
