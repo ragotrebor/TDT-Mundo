@@ -401,9 +401,6 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319725238
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322102301
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/i8ZVzLQ.jpg" group-title="Eventos", Copa América 4
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322102302
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/i8ZVzLQ.jpg" group-title="Eventos", Copa América 5
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322102303
 
 
@@ -1590,6 +1587,10 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DeTScR6.png" group-title="Colombia", -Colombia-
 https://i.imgur.com/YuJcsAv.mp4
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/owNFslG.png" group-title="Eventos", RCN Internacional | Bogotá
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322102302
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XaoGaak.png" group-title="Colombia", Campo TV | HD | Santa Marta
 https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
