@@ -6,7 +6,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:12/07/2021
+#ultima actualizacion:15/07/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -16,7 +16,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Última Actualización - 12/07/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Última Actualización - 15/07/2021 -
 https://i.imgur.com/KuqaZul.mp4
 
 
@@ -1243,6 +1243,9 @@ http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Familiares", Kanade TV | HD | Chile 
 http://96.30.193.226:81/hls/kanade.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Familiares", Kanade TV | HD | Chile | Alt.
+http://96.30.193.226:81/hls/kanadetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zoHgPG.jpg" group-title="Familiares", Lim TV | HD | Paraguay |
 https://i.imgur.com/Cc1CypC.mp4
