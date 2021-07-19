@@ -1701,7 +1701,8 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w33013793
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ucKHJZW.png" group-title="México", -México-
 https://i.imgur.com/RIxpvUH.mp4
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nwmQTbi.png" group-title="México", Azteca 7 | HD
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/339734136
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5rq2SD.png" group-title="México", TV Pacífico | HD | Culiacán
 https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/.m3u8
