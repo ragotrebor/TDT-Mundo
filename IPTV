@@ -6,7 +6,7 @@
 #
 #Canales de TV y Radios online
 #playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:21/07/2021
+#ultima actualizacion:26/07/2021
 #
 #*****************************
 #Como usar esta lista en Kodi:
@@ -16,7 +16,7 @@
 #	Desmarcar la opción de guardar la lista en cache, así siempre se cargará la lista mas actualizada.
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Última Actualización - 21/07/2021 -
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",- Última Actualización - 26/07/2021 -
 https://i.imgur.com/KuqaZul.mp4
 
 
@@ -474,7 +474,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/go2uQ9r.png" group-title="INFANTIL", Anime Clásico | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/go2uQ9r.png" group-title="Pluto TV", Anime Clásico | HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
@@ -911,6 +911,9 @@ http://162.212.176.51:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NnElTcl.png" group-title="Cristianos", La Voz de María| SD | Católico | Rep. Dominicana
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CM0eEQQ.jpg" group-title="Cristianos", Santa María| SD | Católico | Argentina
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSqdNeK.jpg" group-title="Cristianos", Televid | SD | Católico | Colombia
 http://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8
 
@@ -928,6 +931,9 @@ http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsFxF8I.png" group-title="Cristianos", Trinity Broadcasting Network | SD | Evangélico | España
 https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt_new.stream_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W98x9Fl.png" group-title="Cristianos", Televisión Celestial | Evangélico | Argentina
+https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDBqf5D.png" group-title="Cristianos", Mi Viña Channel | SD | Evangélico | Honduras
 https://5b50404ec5e4c.streamlock.net/8056/smil:8056.smil/chunklist_w227761292_b1250000.m3u8
@@ -1023,6 +1029,13 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alsAUUk.png" group-title="Internacionales", France 24 | HD | Francia
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5uvbKMo.png" group-title="Internacionales", Estrella News | HD | Estados Unidos
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/342366847
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPlH24n.png" group-title="Internacionales", Unifé Internacional | SD | Argentina
+https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-b.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zwrEhgw.png" group-title="España", -España-
@@ -1284,13 +1297,16 @@ https://i.imgur.com/KuqaZul.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Familiares", TV Galicia Xabarín | HD | Gallego
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana 
+#EXTINF:-1 tvg-logo = " https://i.imgur.com/y9WS8N8.png " group-title = "Familiares", Tele animacion | HD | España 
+https://live.admefy.com/live/default/socialist_azure_5d76a.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | Rep. Dominicana 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Familiares", Magic Kids| SD | Argentina
 https://live.admefy.com/live/240/clean_peach_ef224.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone | SD | República Dominicana 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone | SD | Rep. Dominicana 
 http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXDY15q.png" group-title="Familiares", Kanade TV | HD | Chile 
@@ -1329,6 +1345,9 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="Familiares",Supertoons TV | SD | España
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFWjIk1.png" group-title="Familiares", Chinola TV | SD | Rep. Dominicana
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OTxBese.png" group-title="Familiares", TV Educa Chile| HD | Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
@@ -1450,7 +1469,6 @@ https://live.canalnueve.tv/canal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NS5sQUC.png" group-title="Argentina",Acequia | HD | Mendoza
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWjBev1.png" group-title="Argentina", Argentinísima Satelital | SD  | Buenos Aires
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1442504911_b1912000_sleng.m3u8
 
@@ -1463,9 +1481,11 @@ https://vcp.myplaytv.com/canal10cba/ngrp:canal10cba_all/chunklist_w134080558_b16
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MeG9SPm.png" group-title="Argentina", Canal 10 | SD | 	Mar del Plata
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPlH24n.png" group-title="Argentina", Unifé | SD | Buenos Aires
+https://dcunilive262-lh.akamaihd.net/i/dclive_1@424583/index_150_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Argentina", TeleFe | HD | Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om4mvzj.png" group-title="Argentina", Canal 12 | HD | Puerto Madryn 
 https://59db7e671a1ad.streamlock.net/madryntv/madryntv/chunklist_w315926178.m3u8
@@ -1594,6 +1614,10 @@ https://i.imgur.com/YuJcsAv.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rYfPsyr.png" group-title="Colombia", Canal 1 | HD | Bogotá
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341232462
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkhGpke.png" group-title="Colombia", Canal Dos | HD | Yopal
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owNFslG.png" group-title="Colombia", RCN Internacional | HD | Bogotá
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/322102302
@@ -1934,11 +1958,19 @@ https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319698305
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341232463
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eol3Gzv.png" group-title="Perú", UCI Perú | HD
+http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fJqimK3.png" group-title="Perú", TV Peru | SD
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6V8sh3v.png" group-title="Perú", TV Peru Noticias | SD
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5ke2A3.jpg" group-title="Perú", Canal N | HD
+http://186.101.216.211:8000/play/a05i
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PIEkgqo.jpg" group-title="Perú", Unitel | HD 
 https://cp.sradiotv.com:1936/8078/8078/chunklist_w428381417.m3u8
@@ -2201,7 +2233,8 @@ https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2PxII1.jpg" group-title="Musicales", Xtra TV | HD | España | Alt.
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMOxnYk.png" group-title="Musicales", Urban TV | HD | España
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Musicales", 30A Music | SD | Estados Unidos
